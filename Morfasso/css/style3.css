@@ -1,0 +1,80 @@
+.card-with-border {
+    border: 2px solid #d6cf38; 
+    border-radius: 10px; 
+    margin-bottom: 20px; 
+}
+
+.h2-stil{
+    color: #8B4513;
+    font-size: 50px;
+    background-color: whitesmoke;
+}
+
+.nav-item a{
+    margin: 1px 7px;  
+    font-size: 16px;
+}
+
+.nav-item a:hover{
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+} 
+
+.footer {
+    background-color: #F4A460;
+    text-align: center;
+}
+
+.footer .share {
+    padding: 10px 0; 
+}
+
+.footer .share a {
+    height: 50px; 
+    width: 50px; 
+    line-height: 50px; 
+    font-size: 20px; 
+    color: #8B4513;
+    border: 1px solid rgba(255,255,255,.3); 
+    margin: 3px; 
+    border-radius: 50%;
+}
+
+.footer .share a:hover {
+    background-color: black;
+    color: white;
+}
+
+.footer .links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px 0; 
+    gap: 10px; 
+}
+
+.footer .links a {
+    padding: 7px 20px; 
+    color: #8B4513;
+    border: 1px solid rgba(255,255,255,.3); 
+    font-size: 20px; 
+}
+
+.footer .links a:hover {
+    background-color: black;
+    color: white;
+}
+
+.footer .credit {
+    font-size: 20px; 
+    color: #8B4513;
+    padding: 20px; 
+}
+
+.footer .credit span {
+    color: #8B4513;
+}
+
+
+
+
